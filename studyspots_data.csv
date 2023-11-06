@@ -1,0 +1,41 @@
+Location,Type,Time_to_study,Lighting
+PCL - 1st Floor,1,1,2
+PCL - 2nd Floor,2,3,1
+PCL - 3rd Floor,2,3,1
+PCL - 4th Floor,2,3,1
+PCL - 5th Floor,3,2,1
+WCP - 1st Floor,3,1,1
+WCP - 2nd Floor,3,2,1
+ GDC - 1st Floor,2,3,2
+GDC - 2nd Floor,2,1,2
+GDC - 3rd Floor,1,2,2
+GDC - 4th Floor,1,2,2
+GDC - 5th Floor,2,3,3
+GDC - 6th Floor,3,2,3
+GDC - 7th Floor,1,2,3
+Moody,3,2,3
+Life Science,1,2,2
+Kuehne - PMA,1,2,1
+Welch - Ground,2,3,3
+Welch - 3rd,2,1,2
+Welch - 4th,1,2,2
+FAC - Ground,3,1,3
+FAC - 2nd Floor,2,2,1
+FAC - 3rd Floor,2,2,1
+Jester,2,3,2
+Union,1,2,2
+Union,1,3,1
+Union,1,2,1
+NHB - Upper,2,2,2
+NHB - Patio,3,2,3
+AHG Courtyard,3,2,3
+EER,2,3,3
+Moore - Hill,1,3,1
+Architecture - Library,1,3,2
+RLP - Ground ,1,1,2
+RLP - 1st Floor,1,2,3
+RLP - 2nd Floor,2,2,2
+RLP - 3rd Floor,2,3,2
+RLP - 4th Floor,2,3,2
+RLP - 5th Floor,2,3,2
+San Jacinto,1,3,3
